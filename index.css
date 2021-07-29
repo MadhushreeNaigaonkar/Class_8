@@ -1,0 +1,18 @@
+
+p{
+    color: brown;
+    font-size: 20px;
+}
+.pi{
+    color: chartreuse;
+
+}
+div{
+    color:cadetblue;
+}
+#sh{
+    color:cornflowerblue;
+}
+div[name="pv"]{
+    background-color: blueviolet
+}
